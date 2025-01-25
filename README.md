@@ -64,7 +64,8 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 1. Download the `.pbix` file and open it in Power BI Desktop or open this link - https://github.com/SagSalvatore/POWERBIDASH/blob/main/Call%20Centre%20dashboard.pbix
 2. Dataset - https://github.com/SagSalvatore/POWERBIDASH/blob/main/credit_risk_dataset%20-%20Copy.csv for the insights.
 3. Use the interactive slicers and filters to explore the data dynamically.
-4. Contains screenshots of the dashboard for the easy preview.
+4. Contains screenshots of the dashboard for the easy preview- ![callcentre](https://github.com/user-attachments/assets/18a804be-b000-46e0-9676-ddbf7a455920)
+
 
 ---
 
