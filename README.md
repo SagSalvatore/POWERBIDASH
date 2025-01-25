@@ -26,7 +26,7 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 
 ---
 
-## Dashboard Highlights
+📊 Dashboard Highlights
 1. **Agent Performance**:
    - Displays the number of calls answered by each agent.
    - Highlights agents with the highest call resolution rates and satisfaction ratings.
@@ -50,15 +50,18 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 
 ---
 
-## Tools and Technologies
-- **Power BI**: For data visualization and dashboard creation.
-- **Data Cleaning**: Prepared and transformed raw call centre data for analysis.
-- **DAX (Data Analysis Expressions)**: Used for creating calculated columns and measures.
-- **Interactive Features**: Implemented slicers and filters for dynamic data exploration.
+🛠️ Tools and Technologies
+📊 Power BI: For data visualization and dashboard creation.
+
+🧹 Data Cleaning: Prepared and transformed raw call centre data for analysis.
+
+📐 DAX (Data Analysis Expressions): Used for creating calculated columns and measures.
+
+🔍 Interactive Features: Implemented slicers and filters for dynamic data exploration.
 
 ---
 
-## Key Insights
+🔑 Key Insights
 - Identified top-performing agents based on call resolution and satisfaction rates.
 - Analyzed monthly call volume trends to optimize staffing during peak periods.
 - Highlighted areas for improvement in call handling and agent training.
@@ -66,7 +69,7 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 
 ---
 
-## How to Use
+🛠️ How to Use
 1. Download the `.pbix` file and open it in Power BI Desktop or open this link - https://github.com/SagSalvatore/POWERBIDASH/blob/main/Call%20Centre%20dashboard.pbix
 2. Dataset - https://github.com/SagSalvatore/POWERBIDASH/blob/main/credit_risk_dataset%20-%20Copy.csv for the insights.
 3. Use the interactive slicers and filters to explore the data dynamically.
@@ -75,13 +78,9 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 
 ---
 
-## Contributions
+🤝 Contributions
 Feel free to fork this repository and contribute by adding new features, improving visualizations, or enhancing the dataset. Please submit a pull request for any changes.
 
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
