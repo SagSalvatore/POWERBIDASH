@@ -11,12 +11,18 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 ---
 
 ## Key Features
-- **Agent Performance Analysis**: Tracks the number of calls answered, resolved, and rejected by each agent.
-- **Call Volume Trends**: Visualizes monthly call volumes to identify peak periods and trends.
-- **Resolution Rates**: Displays the percentage of calls resolved versus unresolved.
-- **Customer Satisfaction**: Highlights average satisfaction ratings and identifies top-performing agents.
-- **Call Rejection Analysis**: Tracks the number of calls rejected by agents to identify areas for improvement.
-- **Dynamic Filters**: Includes slicers for time periods (e.g., months) and call types (e.g., payment-related, admin support).
+🚀 Key Features
+📞 Agent Performance Analysis: Tracks the number of calls answered, resolved, and rejected by each agent.
+
+📈 Call Volume Trends: Visualizes monthly call volumes to identify peak periods and trends.
+
+✅ Resolution Rates: Displays the percentage of calls resolved versus unresolved.
+
+😊 Customer Satisfaction: Highlights average satisfaction ratings and identifies top-performing agents.
+
+❌ Call Rejection Analysis: Tracks the number of calls rejected by agents to identify areas for improvement.
+
+🔍 Dynamic Filters: Includes slicers for time periods (e.g., months) and call types (e.g., payment-related, admin support).
 
 ---
 
