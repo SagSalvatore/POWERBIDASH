@@ -1,5 +1,4 @@
 # POWERBIDASH-CALL CENTRE ANALYSIS
-Here’s a concise and professional **summary** for your Call Centre Performance Analysis project that you can include in your GitHub README. It highlights the purpose, features, and key insights of your project:
 
 ---
 
