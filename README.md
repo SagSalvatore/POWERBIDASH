@@ -81,6 +81,3 @@ This Power BI dashboard provides a comprehensive analysis of call centre perform
 Feel free to fork this repository and contribute by adding new features, improving visualizations, or enhancing the dataset. Please submit a pull request for any changes.
 
 
----
-
-This summary is concise, professional, and tailored to showcase your skills in data analysis and Power BI. It’s perfect for your GitHub README and will impress recruiters and collaborators alike! Let me know if you need further adjustments.
